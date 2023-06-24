@@ -4,9 +4,9 @@ import './styles/App.css';
 
 function App() {
   return (
-    <div className='containerTodos'>
-    <Header />
-    <TodosLogic />
+    <div className="containerTodos">
+      <Header />
+      <TodosLogic />
     </div>
   );
 }
